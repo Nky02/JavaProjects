@@ -1,3 +1,7 @@
+/*This program calculates the area of a circle and utilizing scanner
+    Date: February 15, 2024
+    Written by: Nicky Shane Estrada*/
+
 import java.util.Scanner;
 
 public class CalculateArea {
